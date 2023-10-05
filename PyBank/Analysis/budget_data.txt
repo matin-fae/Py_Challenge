@@ -1,0 +1,7 @@
+Budget Analysis
+----------------------------
+Total Months: 86
+Total Amount: $22,564,198
+Average Change: $-8311.11
+Greatest Increase: $1,862,002, in Aug-16
+Greatest Decrease: $-1,825,558, in Feb-14
